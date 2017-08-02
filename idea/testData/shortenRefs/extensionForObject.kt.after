@@ -1,0 +1,6 @@
+import dependency.extFun
+import dependency.AnObject
+
+fun foo() {
+    AnObject.extFun()
+}
